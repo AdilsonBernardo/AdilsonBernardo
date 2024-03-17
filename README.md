@@ -2,7 +2,7 @@
 ### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
 
 - I work with several modern frameworks like React js and Bootstrap .🧑‍💻 <br/>
-- building beautiful Website and page web with Html Css  & Javascript. 💙<br/>
+- building beautiful Website and web pages with Html Css  & Javascript. 💙<br/>
 
 
 <div align="center">
