@@ -1,3 +1,4 @@
+
 ### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
 
 - I work with several modern frameworks like React js and Bootstrap .🧑‍💻 <br/>
@@ -33,14 +34,17 @@ Social network📱
   <a href = "mailto:adilsonber@outlook.com"><img src="https://img.shields.io/badge/-Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Jone malundo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+</div> 
+
+</br>
+
+
+<div >
+  <img src=https://github.com/AdilsonBernardo/AdilsonBernardo/assets/152282985/f2891045-8642-40cf-9730-b34cd11ec635 
+ width="300"/>
 </div>
 
 
-<div id="header" align="center">
-  <img src="https://" width="300"/>
-</div>
-
-  
 
 
 
