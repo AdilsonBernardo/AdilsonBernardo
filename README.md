@@ -1,7 +1,7 @@
 
 ### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
 
-- I work with Javascript and several modern frameworks like React js, Next,js , Typescript and Bootstrap .🧑‍💻 <br/>
+- I work with Javascript and modern framework like React js.🧑‍💻 <br/>
 - building beautiful Website and web pages with Html Css  & Javascript. 💙<br/>
 
 
