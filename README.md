@@ -1,8 +1,8 @@
 
 ### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
 
-- I work with Javascript and modern framework like React js.🧑‍💻 <br/>
-- building beautiful Website and web pages with Html Css  & Javascript. 💙<br/>
+- I'm fronend developer  work with  and React js.🧑‍💻 <br/>
+- building beautiful Website ,  beautiful interfaces of leading pages and webb app. 💙<br/>
 
 
 <div align="center">
@@ -31,7 +31,6 @@ Social network📱
   
   <div> 
   <a href="https://instagram.com/gelsonbernardo77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:adilsonber@outlook.com"><img src="https://img.shields.io/badge/-Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Jone malundo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div> 
