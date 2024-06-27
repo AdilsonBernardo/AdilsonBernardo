@@ -1,8 +1,6 @@
 
 ### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
-
-- I'm frontend developer ,  I work with React js.🧑‍💻 <br/>
-- building beautiful Website ,  beautiful interfaces of leading pages and webb app. 💙<br/>
+I develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.🧑‍💻 💙
 
 
 <div align="center">
