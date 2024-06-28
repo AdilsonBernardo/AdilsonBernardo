@@ -1,6 +1,4 @@
 
-### Hi There!  I'm Adilson Bernardo,  front-end developer 👋
-I develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.🧑‍💻 💙
 
 
 <div align="center">
