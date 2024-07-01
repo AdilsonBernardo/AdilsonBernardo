@@ -21,7 +21,11 @@ Hi! I’m Adilson Bernardo, and I’m a developer who has passion for building c
    <img alt="Ash-Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Ash-styled" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
-
+<div style="display: inline_block"><br>
+   <img alt="Ash-GitHub" src="https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github"/>
+  <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
+ 
+</div>
 
 ## 
 Social network📱
