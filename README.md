@@ -29,6 +29,8 @@ Hi! I’m Adilson Bernardo, and I’m a developer who has passion for building c
 <div style="display: inline_block"><br>
    <img alt="Ash-GitHub" src="https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github"/>
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
+    <img alt="Ash-Visual" src="https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+
  
 </div>
 
