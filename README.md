@@ -18,11 +18,8 @@ Hi! I’m Adilson Bernardo, and I’m a developer who has passion for building c
 
 
 <div style="display: inline_block"><br>
-  
   <img alt="Ash-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="Ash-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img alt="Ash-Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Ash-styled" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
 
